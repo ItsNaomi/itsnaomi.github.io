@@ -1,0 +1,111 @@
+body {
+  background-color:#52a8d1;
+  color:white;
+  font-family:"arial", sans-serif;
+}
+
+h1 {
+  color: yellow;
+  font-size:40px;
+  letter-spacing:6px;
+  text-transform:uppercase;
+  text-align:center;
+  border: 10px solid black; 
+  padding: 10px;
+  margin-bottom:30px;
+}
+h2 {
+    border-bottom: 1px solid white;
+    text-align:right;
+  font-style: italic;
+  font-family: serif;
+  text-transform: none;
+  font-weight: 100;
+  font-size: 20px;
+    padding: 0 0 1rem 0;
+}
+p {
+  text-align:left; 
+  display:block;
+  margin: 0 auto;
+}
+h3 {
+  text-align:left;
+}
+ul {
+  /*width: 200px;
+  margin: 0 auto;
+  font-family: serif;
+  list-style:none;
+  text-align:center;*/
+}
+
+li {
+  width:80px;
+  display:inline-block;
+}
+
+a {
+  text-align:left;
+  display: block;
+}
+
+a:hover {
+  color: black;
+  margin-left: 2px;
+}
+
+.red {
+  color: red;
+  font-weight:bold;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.red:hover {
+  font-weight:normal;
+  color:blue;
+}
+.blue {
+  color:blue;
+  font-style:italic;
+  padding: 15px 0px 10px 0px;
+}
+.orange {
+  color:orange;
+  text-decoration:underline;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#tiger {
+  background-color:sienna;
+}
+#wolf {
+  background-color:tan;
+}
+#sheep {
+  background-color:steelBlue;
+}
+#parakeet {
+  background-color:lime;
+}
+#piranha {
+  background-color:gold;
+}
+#tuna {
+  background-color:purple;
+}
+/* .fish {
+  color: green;
+}
+
+#blueBorder {
+  border: 2px solid blue;
+  width: 200px;
+  padding: 10px;
+}
+
+img {
+  margin: 29px;
+} */
+
